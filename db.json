@@ -10,5 +10,10 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "recipes": [
+    {"id": 1, "name": "Jajecznica", "description": "4 jajka, łyżka masła, sól, pieprz"},
+    {"id": 2, "name": "Ryż", "description": "ryż"},
+    {"id": 3, "name": "Pierogi", "description": "pierogi z biedronki, woda"}
+  ]
 }
