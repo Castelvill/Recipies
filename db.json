@@ -12,19 +12,19 @@
     "name": "typicode"
   },
   "recipes": [
-    {"id": 1, "name": "Jajecznica"},
-    {"id": 2, "name": "Ryż"},
-    {"id": 3, "name": "Pierogi"},
-    {"id": 4, "name": "Frytki"},
-    {"id": 5, "name": "Woda"},
-    {"id": 6, "name": "Smażona wiewiórka"}
+    {"id": 0, "name": "Jajecznica"},
+    {"id": 1, "name": "Ryż"},
+    {"id": 2, "name": "Pierogi"},
+    {"id": 3, "name": "Frytki"},
+    {"id": 4, "name": "Woda"},
+    {"id": 5, "name": "Smażona wiewiórka"}
   ],
   "descriptions": [
-    {"id": 1, "description": "4 jajka, łyżka masła, sól, pieprz"},
-    {"id": 2, "description": "ryż"},
-    {"id": 3, "description": "pierogi z biedronki, woda"},
-    {"id": 4, "description": "ziemniaki, sól, litr oleju"},
-    {"id": 5, "description": "woda"},
-    {"id": 6, "description": "Proszę nie smażyć wiewiórek"}
+    {"id": 0, "description": "4 jajka, łyżka masła, sól, pieprz"},
+    {"id": 1, "description": "ryż"},
+    {"id": 2, "description": "pierogi z biedronki, woda"},
+    {"id": 3, "description": "ziemniaki, sól, litr oleju"},
+    {"id": 4, "description": "woda"},
+    {"id": 5, "description": "Proszę nie smażyć wiewiórek"}
   ]
 }
